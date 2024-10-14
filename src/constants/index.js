@@ -53,7 +53,7 @@ export const navLinks = [
 
 const services = [
   {
-    title: "Frontend Developer",
+    title: "Fullstack Developer",
     icon: web,
   },
   {
@@ -61,7 +61,7 @@ const services = [
     icon: mobile,
   },
   {
-    title: "Backend Developer",
+    title: "Web3 Enthusiast",
     icon: backend,
   },
   {
@@ -111,14 +111,14 @@ const technologies = [
     name: "Python",
     icon: python,
   },
-  // {
-  //   name: "Pandas",
-  //   icon: pandas,
-  // },
-  // {
-  //   name: "Matplot",
-  //   icon: matplot,
-  // }
+  {
+    name: "Pandas",
+    icon: pandas,
+  },
+  {
+    name: "Matplot",
+    icon: matplot,
+  }
 ];
 
 const experiences = [

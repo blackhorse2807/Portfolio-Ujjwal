@@ -58,7 +58,7 @@ const ProjectCard = ({
               key={`${name}-${tag.name}`}
               className={`text-[14px] ${tag.color}`}
             >
-              #{tag.name}
+              <img src={tag.icon} height="30px" width="30px"></img>
             </p>
           ))}
         </div>
