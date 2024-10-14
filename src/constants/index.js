@@ -111,14 +111,14 @@ const technologies = [
     name: "Python",
     icon: python,
   },
-  {
-    name: "Pandas",
-    icon: pandas,
-  },
-  {
-    name: "Matplot",
-    icon: matplot,
-  }
+  // {
+  //   name: "Pandas",
+  //   icon: pandas,
+  // },
+  // {
+  //   name: "Matplot",
+  //   icon: matplot,
+  // }
 ];
 
 const experiences = [
